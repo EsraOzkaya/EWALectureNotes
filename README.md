@@ -9,4 +9,4 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 
 # Announcements
 
-Ders Kontenjani ile ilgili son durum 28.Şubat Cuma günü açıklanacaktır.
+Ders Kontenjani ile ilgili son durum 28.Şubat Cuma günü saat 10:00'da açıklanacaktır.
