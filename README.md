@@ -6,3 +6,7 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 [Week 01](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week01.pdf)
 
 [Week 02](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week02.pdf)
+
+# Announcements
+
+Ders Kontenjani ile ilgili son durum 28.Şubat Cuma günü açıklanacaktır.
