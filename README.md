@@ -9,4 +9,4 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 
 # Announcements
 
-Ders Kontenjani ile ilgili son durum 28.Şubat Cuma günü saat 10:00'da açıklanacaktır.
+BBM488 ve BBM490 Ders Kontenjanlari 70'er kisi olarak arttirilmistir.
