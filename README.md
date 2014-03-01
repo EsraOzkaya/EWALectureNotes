@@ -1,5 +1,4 @@
-EWALectureNotes
-===============
+# Lecture Notes
 
 Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacettepe University
 
@@ -10,3 +9,7 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 # Announcements
 
 BBM488 ve BBM490 Ders Kontenjanlari 70'er kisi olarak arttirilmistir.
+
+# Samples 
+
+You can reach the sample application for Form processing with Servlets [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/FormApp.zip).
