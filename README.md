@@ -13,3 +13,5 @@ BBM488 ve BBM490 Ders Kontenjanlari 70'er kisi olarak arttirilmistir.
 # Samples 
 
 You can reach the sample application for Form processing with Servlets [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/FormApp.zip).
+
+You can reach the sample application for Ajax [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/AjaxApp.zip).
