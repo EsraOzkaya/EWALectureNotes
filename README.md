@@ -14,6 +14,11 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 
 BBM488 ve BBM490 Ders Kontenjanlari 70'er kisi olarak arttirilmistir.
 
+There will be a quiz exam on April 7th.
+
+Term Exam will be on May 5th.
+
+
 # Samples 
 
 You can reach the sample application for Form processing with Servlets [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/FormApp.zip).
