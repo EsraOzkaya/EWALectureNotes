@@ -2,13 +2,15 @@
 
 Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacettepe University
 
-[Week 01](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week01.pdf)
+[Week 01 - History of WWW and Internet](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week01.pdf)
 
-[Week 02](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week02.pdf)
+[Week 02 - Anatomy of a WebApp](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week02.pdf)
 
-[Week 03](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week03.pdf)
+[Week 03 - Maven Project Management](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week03.pdf)
 
-[Week 04](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week04.pdf)
+[Week 04 - Spring Framework](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week04.pdf)
+
+[Week 05 - Web Services](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week05.pdf) 
 
 # Announcements
 
