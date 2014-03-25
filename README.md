@@ -12,6 +12,8 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 
 [Week 05 - Web Services](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week05.pdf) 
 
+[Week 06 - JDBC](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week06.pdf)
+
 # Announcements
 
 BBM488 ve BBM490 Ders Kontenjanlari 70'er kisi olarak arttirilmistir.
