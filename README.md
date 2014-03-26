@@ -16,11 +16,11 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 
 # Announcements
 
-BBM488 ve BBM490 Ders Kontenjanlari 70'er kisi olarak arttirilmistir.
-
 There will be a quiz exam on April 7th.
 
 Term Exam will be on May 5th.
+
+To register for the BBM488 - Web Services Lab. follow the link [here](http://web.cs.hacettepe.edu.tr/~bbm488)
 
 
 # Samples 
@@ -30,3 +30,9 @@ You can reach the sample application for Form processing with Servlets [here](ht
 You can reach the sample application for Ajax [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/AjaxApp.zip).
 
 Spring Sample Application with XML Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBasedSpringApp.zip)
+
+Basic Java Application Example with JDBC is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJDBC.zip)
+
+Basic Spring Application Example with JDBCTemplate and Transactional Mechanism is [here](https://raw.githubusercontent.com/mulderbaba/EWALectureNotes/master/BasicSpringJDBC.zip)
+
+
