@@ -16,6 +16,8 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 
 # Announcements
 
+Due to Elections, we won't be doing any lessons on 31th of March. For details see [here](https://www.hacettepe.edu.tr/duyuru/rekduy/s260314.pdf).
+
 There will be a quiz exam on April 7th.
 
 Term Exam will be on May 5th.
