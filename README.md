@@ -37,4 +37,5 @@ Basic Java Application Example with JDBC is [here](https://github.com/mulderbaba
 
 Basic Spring Application Example with JDBCTemplate and Transactional Mechanism is [here](https://raw.githubusercontent.com/mulderbaba/EWALectureNotes/master/BasicSpringJDBC.zip)
 
+Basic JPA Application with Hibernate used as persistency provider is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJPA.zip)
 
