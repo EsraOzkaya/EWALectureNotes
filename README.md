@@ -31,11 +31,11 @@ You can reach the sample application for Form processing with Servlets [here](ht
 
 You can reach the sample application for Ajax [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/AjaxApp.zip).
 
-Spring Sample Application with XML Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBasedSpringApp.zip)
+Spring Sample Application with XML Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBasedSpringApp.zip).
 
-Basic Java Application Example with JDBC is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJDBC.zip)
+Basic Java Application Example with JDBC is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJDBC.zip).
 
-Basic Spring Application Example with JDBCTemplate and Transactional Mechanism is [here](https://raw.githubusercontent.com/mulderbaba/EWALectureNotes/master/BasicSpringJDBC.zip)
+Basic Spring Application Example with JDBCTemplate and Transactional Mechanism is [here](https://raw.githubusercontent.com/mulderbaba/EWALectureNotes/master/BasicSpringJDBC.zip).
 
-Basic JPA Application with Hibernate used as persistency provider is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJPA.zip)
+Basic JPA Application with Hibernate used as persistency provider is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJPA.zip).
 
