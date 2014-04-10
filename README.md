@@ -41,3 +41,5 @@ Basic Spring Application Example with JDBCTemplate and Transactional Mechanism i
 
 Basic JPA Application with Hibernate used as persistency provider is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJPA.zip).
 
+Basic Spring Application Example integrated with JPA is [here](https://raw.githubusercontent.com/mulderbaba/EWALectureNotes/master/BasicSpringJPAWithDAO.zip).
+
