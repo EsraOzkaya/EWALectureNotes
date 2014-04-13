@@ -35,6 +35,10 @@ You can reach the sample application for Ajax [here](https://github.com/mulderba
 
 Spring Sample Application with XML Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBasedSpringApp.zip).
 
+Spring Sample Application with XML Configuration that demonstrates Collections injection is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBasedSpringAppWithCollections.zip).
+
+Spring Sample Application with XML Configuration that demonstrates Bean Lifecycle is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBasedSpringAppWithLifeCycleMethod.zip).
+
 Basic Java Application Example with JDBC is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJDBC.zip).
 
 Basic Spring Application Example with JDBCTemplate and Transactional Mechanism is [here](https://raw.githubusercontent.com/mulderbaba/EWALectureNotes/master/BasicSpringJDBC.zip).
