@@ -33,11 +33,18 @@ You can reach the sample application for Form processing with Servlets [here](ht
 
 You can reach the sample application for Ajax [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/AjaxApp.zip).
 
+Maven modules demonstration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/modulesapplication.zip).
+
 Spring Sample Application with XML Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBasedSpringApp.zip).
+
+Spring Sample Application with Bean Dependencies demonstration is [here](http://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBasedSpringAppWithBeanDependencies.zip).
 
 Spring Sample Application with XML Configuration that demonstrates Collections injection is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBasedSpringAppWithCollections.zip).
 
 Spring Sample Application with XML Configuration that demonstrates Bean Lifecycle is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBasedSpringAppWithLifeCycleMethod.zip).
+
+Spring Sample Application with XML Configuration that demonstrates abstract beans is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBsaedSpringAppWithAbstractBeans.zip).
+
 
 Basic Java Application Example with JDBC is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJDBC.zip).
 
