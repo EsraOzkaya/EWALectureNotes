@@ -45,6 +45,7 @@ Spring Sample Application with XML Configuration that demonstrates Bean Lifecycl
 
 Spring Sample Application with XML Configuration that demonstrates abstract beans is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/XMLBsaedSpringAppWithAbstractBeans.zip).
 
+Spring Sample Application bundled as Web Application is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/SpringWebApplication.zip).
 
 Basic Java Application Example with JDBC is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJDBC.zip).
 
