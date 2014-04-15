@@ -26,6 +26,7 @@ Term Exam will be on May 5th.
 
 To register for the BBM488 - Web Services Lab. follow the link [here](http://web.cs.hacettepe.edu.tr/~bbm488)
 
+You can register to lecture site for piazza with the link [here](https://piazza.com/hacettepe.edu.tr/spring2014/bbm490).
 
 # Samples 
 
