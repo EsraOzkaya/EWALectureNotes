@@ -60,3 +60,5 @@ Basic Spring Application Example integrated with JPA is [here](https://raw.githu
 
 Basic JSF Application with XML Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFBeansWithXML.zip)
 
+Basic JSF Application with Annotation Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFBeansWithAnnotations.zip)
+
