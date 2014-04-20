@@ -64,3 +64,5 @@ Basic JSF Application with XML Configuration is [here](https://github.com/mulder
 
 Basic JSF Application with Annotation Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFBeansWithAnnotations.zip).
 
+Basic JSF Application that demoes UI Components is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithUIComponents.zip).
+
