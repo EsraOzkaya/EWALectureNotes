@@ -16,6 +16,8 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 
 [Week 07 - JPA](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week07.pdf)
 
+[Week 08 - All over first 4 weeks](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week08.pdf)
+
 # Announcements
 
 Due to Elections, we won't be doing any lessons on 31th of March. For details see [here](https://www.hacettepe.edu.tr/duyuru/rekduy/s260314.pdf).
@@ -58,7 +60,7 @@ Basic JPA Application with Hibernate used as persistency provider is [here](http
 
 Basic Spring Application Example integrated with JPA is [here](https://raw.githubusercontent.com/mulderbaba/EWALectureNotes/master/BasicSpringJPAWithDAO.zip).
 
-Basic JSF Application with XML Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFBeansWithXML.zip)
+Basic JSF Application with XML Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFBeansWithXML.zip).
 
-Basic JSF Application with Annotation Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFBeansWithAnnotations.zip)
+Basic JSF Application with Annotation Configuration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFBeansWithAnnotations.zip).
 
