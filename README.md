@@ -67,3 +67,5 @@ Basic JSF Application with Annotation Configuration is [here](https://github.com
 Basic JSF Application that demoes UI Components is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithUIComponents.zip).
 
 Basic JSF Application that demoes built-in JSF Converters and Validators is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithConverterValidator.zip).
+
+Basic JSF Application that demoes navigation beetween JSF Pages is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithNavigations.zip).
