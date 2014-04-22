@@ -18,6 +18,8 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 
 [Week 08 - All over first 4 weeks](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week08.pdf)
 
+[Week 09 - JSF Part 1](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week09.pdf)
+
 # Announcements
 
 Due to Elections, we won't be doing any lessons on 31th of March. For details see [here](https://www.hacettepe.edu.tr/duyuru/rekduy/s260314.pdf).
