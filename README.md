@@ -26,7 +26,7 @@ Due to Elections, we won't be doing any lessons on 31th of March. For details se
 
 There will be a quiz exam on April 7th.
 
-Term Exam will be on May 5th.
+Term Exam will be on May 5th at 1:00pm (Derslik 4 - Derslik 5). 
 
 To register for the BBM488 - Web Services Lab. follow the link [here](http://web.cs.hacettepe.edu.tr/~bbm488)
 
@@ -71,3 +71,7 @@ Basic JSF Application that demoes UI Components is [here](https://github.com/mul
 Basic JSF Application that demoes built-in JSF Converters and Validators is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithConverterValidator.zip).
 
 Basic JSF Application that demoes navigation beetween JSF Pages is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithNavigations.zip).
+
+Basic JSF Application that demoes Spring Integration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithSpring.zip).
+
+Basic JSF Application that demoes injection of JSF Beans to JSF Beans is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithBeanInjection.zip).
