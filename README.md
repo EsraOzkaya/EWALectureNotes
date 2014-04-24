@@ -75,3 +75,5 @@ Basic JSF Application that demoes navigation beetween JSF Pages is [here](https:
 Basic JSF Application that demoes Spring Integration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithSpring.zip).
 
 Basic JSF Application that demoes injection of JSF Beans to JSF Beans is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithBeanInjection.zip).
+
+Basic JSF Application that demoes Templating Mechanism is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithTemplating.zip).
