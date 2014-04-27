@@ -72,6 +72,10 @@ Basic JSF Application that demoes built-in JSF Converters and Validators is [her
 
 Basic JSF Application that demoes navigation beetween JSF Pages is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithNavigations.zip).
 
+Basic JSF Application that demos data passing between Managed Beans is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithDataPassing.zip).
+
+Basic JSF Application that demoes AJAXified pages is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithAJAX.zip).
+
 Basic JSF Application that demoes Spring Integration is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithSpring.zip).
 
 Basic JSF Application that demoes injection of JSF Beans to JSF Beans is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithBeanInjection.zip).
