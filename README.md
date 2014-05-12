@@ -22,6 +22,8 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 
 [Week 10 - JSF Part 2](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week10.pdf)
 
+[Week 11 - Agile and Scrum](https://dl.dropboxusercontent.com/u/133268/BBM490_EnterpriseWebArchitecture_Week11.pdf)
+
 [Week 11 - Questions about Agile and Scrum](https://dl.dropboxusercontent.com/u/133268/Agile_ve_Scrum_Sorular%C4%B1.pdf)
 
 # Announcements
