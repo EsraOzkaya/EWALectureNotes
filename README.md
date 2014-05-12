@@ -26,6 +26,8 @@ Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacet
 
 [Week 11 - Questions about Agile and Scrum](https://dl.dropboxusercontent.com/u/133268/Agile_ve_Scrum_Sorular%C4%B1.pdf)
 
+[Week 11 - Scrum Guide in Various Languages including Turkish](https://www.scrum.org/Scrum-Guide)
+
 # Announcements
 
 Due to Elections, we won't be doing any lessons on 31th of March. For details see [here](https://www.hacettepe.edu.tr/duyuru/rekduy/s260314.pdf).
