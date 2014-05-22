@@ -36,7 +36,7 @@ There will be a quiz exam on April 7th.
 
 Term Exam will be on May 5th at 1:00pm (Derslik 4 - Derslik 5). 
 
-Final Exam will be on 3rd of June at 10:00am (Derslik 1 - Derslik 2).
+Final Exam will be on 3rd of June at 09:00am (Derslik 1 - Derslik 2).
 
 To register for the BBM488 - Web Services Lab. follow the link [here](http://web.cs.hacettepe.edu.tr/~bbm488)
 
