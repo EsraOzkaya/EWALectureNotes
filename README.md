@@ -36,7 +36,7 @@ There will be a quiz exam on April 7th.
 
 Term Exam will be on May 5th at 1:00pm (Derslik 4 - Derslik 5). 
 
-Final Exam will be on 3rd of June at 10:00am (Derslik 1 - Derslik 2).
+Final Exam will be on 3rd of June at 09:00am (Derslik 1 - Derslik 2).
 
 To register for the BBM488 - Web Services Lab. follow the link [here](http://web.cs.hacettepe.edu.tr/~bbm488)
 
@@ -91,3 +91,5 @@ Basic JSF Application that demoes Spring Integration is [here](https://github.co
 Basic JSF Application that demoes injection of JSF Beans to JSF Beans is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithBeanInjection.zip).
 
 Basic JSF Application that demoes Templating Mechanism is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithTemplating.zip).
+
+Basic Spring MVC Application that demoes Hello World is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVC.zip).
