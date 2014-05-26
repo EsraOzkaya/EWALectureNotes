@@ -93,3 +93,5 @@ Basic JSF Application that demoes injection of JSF Beans to JSF Beans is [here](
 Basic JSF Application that demoes Templating Mechanism is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicJSFWithTemplating.zip).
 
 Basic Spring MVC Application that demoes Hello World is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVC.zip).
+
+Basic Spring MVC Application With Annotation Configuration that demoes Hello World is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCWithAnnotations.zip).
