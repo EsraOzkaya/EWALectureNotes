@@ -38,6 +38,8 @@ Term Exam will be on May 5th at 1:00pm (Derslik 4 - Derslik 5).
 
 Final Exam will be on 3rd of June at 09:00am (Derslik 1 - Derslik 2).
 
+Make Up Exam will be on 18th of June at 03:00pm (Derslik To Be Announced).
+
 To register for the BBM488 - Web Services Lab. follow the link [here](http://web.cs.hacettepe.edu.tr/~bbm488)
 
 You can register to lecture site for piazza with the link [here](https://piazza.com/hacettepe.edu.tr/spring2014/bbm490).
