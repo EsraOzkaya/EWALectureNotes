@@ -97,3 +97,5 @@ Basic JSF Application that demoes Templating Mechanism is [here](https://github.
 Basic Spring MVC Application that demoes Hello World is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVC.zip).
 
 Basic Spring MVC Application With Annotation Configuration that demoes Hello World is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCWithAnnotations.zip).
+
+Basic Spring MVC application With File upload integrated with Servlet 3.0 is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCFileUpload.zip).
