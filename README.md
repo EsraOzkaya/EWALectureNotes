@@ -102,4 +102,6 @@ Basic Spring MVC Application Integrated with Bean Validation is [here](https://g
 
 Basic Spring MVC Application with Exception Handling is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCExceptionHandling.zip).
 
+Basic Spring MVC Application with Internationalisation features is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCInternationalization.zip).
+
 Basic Spring MVC application With File upload integrated with Servlet 3.0 is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCFileUpload.zip).
