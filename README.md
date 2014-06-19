@@ -107,3 +107,5 @@ Basic Spring MVC Application with Internationalisation features is [here](https:
 Basic Spring MVC Application with Themes is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCThemes.zip).
 
 Basic Spring MVC application With File upload integrated with Servlet 3.0 is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCFileUpload.zip).
+
+Basic Spring MVC application with Integration Testing is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCTesting.zip).
