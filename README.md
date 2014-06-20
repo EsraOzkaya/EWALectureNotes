@@ -98,6 +98,8 @@ Basic Spring MVC Application that demoes Hello World is [here](https://github.co
 
 Basic Spring MVC Application With Annotation Configuration that demoes Hello World is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCWithAnnotations.zip).
 
+Basic Spring MVC Application with Form Submission is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCWithFormElements.zip).
+
 Basic Spring MVC Application Integrated with Bean Validation is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCBeanValidation.zip).
 
 Basic Spring MVC Application with Exception Handling is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCExceptionHandling.zip).
