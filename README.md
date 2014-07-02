@@ -111,3 +111,5 @@ Basic Spring MVC Application with Themes is [here](https://github.com/mulderbaba
 Basic Spring MVC application With File upload integrated with Servlet 3.0 is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCFileUpload.zip).
 
 Basic Spring MVC application with Integration Testing is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringMVCTesting.zip).
+
+Basic Spring AOP with Method Execution Time Logging is [here](https://github.com/mulderbaba/EWALectureNotes/blob/master/BasicSpringAOP.zip).
